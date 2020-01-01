@@ -5,4 +5,6 @@ angle-based smoothing, c++, in meshimprove file;
 optimization-based smoothing, python, in meshimp file;  
 mesh smoothing based a nerual network, python, in meshimp file.  
   
-some examples from paper "123456", in example file.
+some examples from paper "123456", in example file.  
+  
+need third lib: open mesh and open volumemesh.  
