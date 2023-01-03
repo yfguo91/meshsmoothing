@@ -1,4 +1,7 @@
 # meshsmoothing
+
+This is the implementation of our paper "A new mesh smoothing method based on a neural network" published in Computational Mechanics 2022.
+
 some mesh smoothing methods file:  
 GETMe, c++, in meshimprove file;  
 angle-based smoothing, c++, in meshimprove file;  
